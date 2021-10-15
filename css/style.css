@@ -1,0 +1,17 @@
+.outter{
+    background-color: green;
+    display: inline-block;
+}
+.inner{
+    background-color: honeydew;  
+    overflow: hidden;
+    padding: 80px 50px;
+    margin: 50px;
+}
+.inner h1{
+    background-color:grey;
+    color: green;
+    text-align: center;
+    font-size: 32px;
+    padding: 0 20px;
+}
